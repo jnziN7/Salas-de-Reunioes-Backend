@@ -96,3 +96,8 @@ SalasReunioes/
   "salaId": 1
 }
 ```
+## Banco de Dados
+
+O banco SQLite (`reunioes.db`) é criado automaticamente na primeira execução via Entity Framework Core.
+
+O arquivo `schema.sql` contém o script de criação das tabelas caso queira criar manualmente.
