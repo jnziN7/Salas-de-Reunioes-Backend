@@ -71,7 +71,7 @@ SalasReunioes/
 
 ```json
 {
-  "nome": "Sala Executive",
+  "nome": "Sala Executiva",
   "andar": 5,
   "quantidadeAssentos": 12
 }
