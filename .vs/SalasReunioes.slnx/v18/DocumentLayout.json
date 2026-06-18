@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89B0C9A-688A-9166-DB12-5040919256C4}|SalasReunioes\\SalasReunioes.csproj|c:\\users\\razer\\onedrive\\desktop\\salasreunioes\\salasreunioes\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89B0C9A-688A-9166-DB12-5040919256C4}|SalasReunioes\\SalasReunioes.csproj|solutionrelative:salasreunioes\\services\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89B0C9A-688A-9166-DB12-5040919256C4}|SalasReunioes\\SalasReunioes.csproj|c:\\users\\razer\\onedrive\\desktop\\salasreunioes\\salasreunioes\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89B0C9A-688A-9166-DB12-5040919256C4}|SalasReunioes\\SalasReunioes.csproj|solutionrelative:salasreunioes\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89B0C9A-688A-9166-DB12-5040919256C4}|SalasReunioes\\SalasReunioes.csproj|c:\\users\\razer\\onedrive\\desktop\\salasreunioes\\salasreunioes\\salasreunioes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D89B0C9A-688A-9166-DB12-5040919256C4}|SalasReunioes\\SalasReunioes.csproj|solutionrelative:salasreunioes\\salasreunioes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\SalasReunioes\\Services\\ReservaService.cs",
+              "RelativeDocumentMoniker": "SalasReunioes\\Services\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\SalasReunioes\\Services\\ReservaService.cs",
+              "RelativeToolTip": "SalasReunioes\\Services\\ReservaService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T17:11:14.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\SalasReunioes\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "SalasReunioes\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\SalasReunioes\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "SalasReunioes\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T17:07:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalasReunioes",
+              "DocumentMoniker": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\SalasReunioes\\SalasReunioes.csproj",
+              "RelativeDocumentMoniker": "SalasReunioes\\SalasReunioes.csproj",
+              "ToolTip": "C:\\Users\\razer\\OneDrive\\Desktop\\SalasReunioes\\SalasReunioes\\SalasReunioes.csproj",
+              "RelativeToolTip": "SalasReunioes\\SalasReunioes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-18T16:48:32.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
