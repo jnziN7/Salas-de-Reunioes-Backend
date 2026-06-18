@@ -59,33 +59,6 @@ SalasReunioes/
 
 ## Exemplos
 
-### Criar sala
-```json
-{
-  "nome": "Sala Executiva",
-  "andar": 5,
-  "quantidadeAssentos": 12
-}
-```
-
-### Criar reserva
-```json
-{
-  "inicio": "2026-06-20T10:00:00",
-  "fim": "2026-06-20T11:30:00",
-  "salaId": 1
-}
-```
-
-### Reagendar reserva
-```json
-{
-  "inicio": "2026-06-21T14:00:00",
-  "fim": "2026-06-21T16:00:00",
-  "salaId": 1
-}
-```
-
 ### 1. Criar sala
 `POST /api/Salas`
 ```json
